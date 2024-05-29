@@ -22,8 +22,8 @@
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/graph-search-visualizer.git
-    cd graph-search-visualizer
+    git clone https://github.com/Sammany1/Graph_Search_Visualizer.git
+    cd Graph_Search_Visualizer
     ```
 
 2. **Install the required packages:**
