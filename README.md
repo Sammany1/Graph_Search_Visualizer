@@ -7,7 +7,7 @@
 ## Screenshots
 
 1. **Adding Nodes:**
-   ![Adding Nodes](/path/to/adding_nodes_screenshot.png)
+   ![Adding Nodes](/screenshot/adding_nodes_screenshot.png)
 
 2. **Adding Edges:**
    ![Adding Edges](/path/to/adding_edges_screenshot.png)
