@@ -4,6 +4,24 @@
 
 **Graph Search Visualizer** is an interactive application built with PyQt5 that allows users to visualize graph search algorithms such as Breadth-First Search (BFS), Depth-First Search (DFS), Dijkstra's Algorithm, and Bellman-Ford Algorithm. Users can create nodes, connect them with edges, and then run the desired algorithm to see the step-by-step process of the search. The application also maintains a real-time dictionary representation of the graph as it is being constructed.
 
+## Screenshots
+
+1. **Adding Nodes:**
+   ![Adding Nodes](/path/to/adding_nodes_screenshot.png)
+
+2. **Adding Edges:**
+   ![Adding Edges](/path/to/adding_edges_screenshot.png)
+
+3. **Full Graph (Unweighted):**
+   ![Full Graph (Unweighted)](/path/to/full_graph_unweighted_screenshot.png)
+
+4. **Full Graph (Weighted):**
+   ![Full Graph (Weighted)](/path/to/full_graph_weighted_screenshot.png)
+
+5. **Visualization:**
+   ![Visualization](/path/to/visualization_screenshot.png)
+
+
 ## Features
 
 - **Interactive Graph Creation**: Users can place nodes anywhere on the screen and connect them with edges.
