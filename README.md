@@ -62,3 +62,7 @@ As you create the graph, the application maintains a real-time dictionary repres
     'C': {'A': 10, 'B': 3},
     'D': {'B': 2}
 }
+```
+## Contact
+
+For any questions or feedback, please feel free to reach out to [Sammany1](https://github.com/Sammany1) on GitHub.
