@@ -9,6 +9,9 @@
 - **Interactive Graph Creation**: Users can place nodes anywhere on the screen and connect them with edges.
 - **Algorithm Visualization**: Supports BFS, DFS, Dijkstra's, and Bellman-Ford algorithms.
 - **Real-Time Graph Dictionary**: Automatically updates a dictionary representation of the graph as nodes and edges are created.
+- **Supports Unweighted and Weighted Graphs**: Users can create both unweighted and weighted graphs.
+  - If an unweighted graph is used and Dijkstra or Bellman-Ford is selected, the graph is automatically converted to a weighted graph with all edge weights set to one.
+- **Search Results Display**: The results of the search algorithms are shown in a separate panel for easy analysis.
 
 ## Requirements
 
@@ -38,10 +41,13 @@
 2. **Creating Nodes and Edges:**
    - Click anywhere on the canvas to create a node.
    - Click on a node and drag to another node to create an edge.
+   - To add weights to edges, double-click on the edge and enter the desired weight.
 
 3. **Selecting and Running Algorithms:**
    - Choose the desired algorithm (BFS, DFS, Dijkstra, Bellman-Ford) from the algorithm selection menu.
-   - Click the 'Run' button to start the visualization.
+   - If running Dijkstra or Bellman-Ford on an unweighted graph, the application will automatically assign a weight of one to all edges.
+   - Click the 'Visualize' button to start the visualization.
+   - View the search results in the results panel.
 
 ## Graph Dictionary
 
