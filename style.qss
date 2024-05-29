@@ -1,0 +1,63 @@
+QWidget {
+    background-color: #DAC0A3;
+    font-size: 16px;
+    font-family: "Arial";
+    font-weight: bold;
+    color: #473700;
+    /* border: 2px solid #4CAF50;  */
+    border-radius: 5px;
+}
+QTextEdit{
+    color: #000000;
+    background-color: #ece5dc;
+    font-style: italic;
+}
+QPlainTextEdit{
+    color: #000000;
+    background-color: rgb(247, 243, 237);
+}
+QPushButton {
+    background-color: #102C57; 
+    border: none;
+    color: white;
+    
+}
+
+QWidget {
+    /* ... existing styles ... */
+}
+
+QWidget:disabled {
+    opacity: 0.5; /* Example: reduce opacity for disabled components */
+    /* additional styles for disabled components */
+}
+
+QTextEdit:disabled {
+    /* styles specific to disabled QTextEdit components */
+    color: #ffffff;
+    background-color: #DAC0A3;
+}
+QPlainTextEdit:disabled {
+    color: #ffffff;
+    background-color: #e6d6c4;
+}
+
+
+QPushButton:disabled {
+    /* styles specific to disabled QPushButton components */
+    background-color: #114087; 
+    border: none;
+    color: #8aa6d2;
+    font-size: 15px;
+}
+QRadioButton:disabled {
+    color: rgb(169, 141, 108);
+}
+QLabel:disabled {
+    color: rgb(147, 117, 83);
+    font-style: italic;
+}
+QPushButton#reset_Button {
+    color: #f7e5e5;
+    background-color: #922d2d;
+}

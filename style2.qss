@@ -1,0 +1,28 @@
+QWidget {
+    background-color: #43766C;
+    font-size: 16px;
+    font-family: "Arial";
+    font-weight: bold;
+    color: #ffffff;
+    /* border: 2px solid #4CAF50;  */
+    /* border-radius: 5px; */
+}
+
+QTextEdit{
+    color: #000000;
+    background-color: #F8FAE5;
+    font-style: italic;
+}
+QPlainTextEdit{
+    color: #000000;
+    background-color: #F8FAE5;
+}
+QPushButton {
+    background-color: #B19470; 
+    border: none;
+    color: white;
+    
+
+}
+
+
