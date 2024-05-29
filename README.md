@@ -10,16 +10,16 @@
    ![Adding Nodes](screenshots/adding_edges_screenshot.png)
 
 2. **Adding Edges:**
-   ![Adding Edges](/path/to/adding_edges_screenshot.png)
+   ![Adding Edges](screenshots/adding_edges_screenshot.png)
 
 3. **Full Graph (Unweighted):**
-   ![Full Graph (Unweighted)](/path/to/full_graph_unweighted_screenshot.png)
+   ![Full Graph (Unweighted)](screenshots/full_graph_unweighted_screenshot.png)
 
 4. **Full Graph (Weighted):**
-   ![Full Graph (Weighted)](/path/to/full_graph_weighted_screenshot.png)
+   ![Full Graph (Weighted)](screenshots/full_graph_weighted_screenshot.png)
 
 5. **Visualization:**
-   ![Visualization](/path/to/visualization_screenshot.png)
+   ![Visualization](screenshots/visualization_screenshot.png)
 
 
 ## Features
